@@ -1,5 +1,6 @@
 https://github.com/rapid7/metasploit-framework/pull/12283
 
+https://github.com/TinToSer/bluekeep-exploit
 
 cve_2019_0708_bluekeep.rb 添加 /usr/share/metasploit-framework/modules/exploits/windows/rdp/
 
